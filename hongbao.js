@@ -831,7 +831,7 @@
     }
     </style>
     <div>
-   <h2 style="text-align: center;cursor: pointer;color:#262626;font-size: 24px;font-weight: 600;margin: 20px 0;text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">红包助手 +qq1246050820<span class='expire-text' style="margin-left: 10px;">有效期至：<span id='data-expireTime_1'></span></span></h2>
+   <h2 style="text-align: center;cursor: pointer;color:#262626;font-size: 24px;font-weight: 600;margin: 20px 0;text-shadow: 1px 1px 2px rgba(0,0,0,0.1);">红包助手 +qq1246050820<span class='expire-text' style="margin-left: 10px;">span id='data-expireTime_1'></span></span></h2>
     <!-- 为label和input添加一个包装容器 -->
     <div style="display: flex; flex-wrap: wrap; gap: 15px;">
         <div style="flex: 1; min-width: 45%;">
